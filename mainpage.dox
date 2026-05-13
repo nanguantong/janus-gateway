@@ -4067,7 +4067,7 @@ ldd janus | grep asan
  *    - Presentation on multistream support in the SIP and NoSIP plugins at <a href="https://www.youtube.com/live/lN96vOjhhhI?si=wiwS0KbyFBYRF9ez&t=1751">OpenSIPS Summit 2025</a>;
  *    - Presentation on RTP forwarders support in the SIP and NoSIP plugins at <a href="https://www.youtube.com/watch?v=CsGf0fudVXE&t=8208s">OpenSIPS Summit 2026</a>;
  *    - Workshop on RTP Over QUIC and its integration in Janus at <a href="https://www.youtube.com/watch?v=1m9vrvvI9fY&t=3681s">OpenSIPS Summit 2026</a>;
- *    - Presentation on Juturna and using it with Janus at <a href="https://www.youtube.com/watch?v=GRpMmVn2uwA&t=19950s">Kamailio World 2026</a>. \n\n
+ *    - Presentation on Juturna and using it with Janus at <a href="https://www.youtube.com/watch?v=UUcJ1aB4u8I">Kamailio World 2026</a>. \n\n
  *    Apart from these presentations, make sure you also check the slides
  *    and presentations from <a href="https://januscon.it">JanusCon</a> (including the
  *    <a href="https://januscon.it/2019">2019 edition</a>),
